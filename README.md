@@ -16,8 +16,8 @@ ConnectHub is a real-time chat application that enables seamless communication b
 ### 1. The Login/SignUp page (User must authenticate)<br></br>
   ![image](https://github.com/user-attachments/assets/949cbedf-6f8c-43a7-bcfa-47fd2500a13c)<br></br>
 
-### 2.The Users who are online and Search Users functionality are integrated in real time with Socket.io along with real time messaging.<br><br/>
-### There is also Logout button functionality under the users.
+### 2.The Users who are online and Search Users functionality are integrated in real time with Socket.io along with real time messaging.
+### There is also Logout button functionality under the users.<br><br/>
   ![image](https://github.com/user-attachments/assets/3d5b04f4-560b-4d92-bb2b-81e7cfe703ce)<br></br>
 
 
