@@ -30,16 +30,16 @@ To set up the application locally, follow these steps:
 - npm
 
 ### Backend Setup
--1.Navigate to the backend directory 'cd folder'.
--2.Type 'npm i'to install all necessary packages.
--3.Run the server by 'npm run server' or 'npm build'.
--4.Create a .env file and add your environment variables
+###### 1. Navigate to the backend directory 'cd folder'.
+###### 2. Type 'npm i'to install all necessary packages.
+###### 3. Run the server by 'npm run server' or 'npm build'.
+###### 4. Create a .env file and add your environment variables
 ####  "PORT=5000
 ####   MONGO_URI=your_mongodb_uri
 ####   JWT_SECRET=your_jwt_secret
 ####   NODE_ENV=development"<br></br>
 
 ### Frontend Setup
--1.Navigate to the forntend directory 'cd folder'.
--2.Type 'npm i'to install all necessary packages.
--3.Type 'npm run dev'.
+###### 1. Navigate to the forntend directory 'cd folder'.
+###### 2. Type 'npm i'to install all necessary packages.
+###### 3 .Type 'npm run dev'.
